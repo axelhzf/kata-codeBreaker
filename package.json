@@ -1,0 +1,11 @@
+{
+    "name" : "CodeBreaker",
+    "description" : "CodeBreaker Kata : 12 Meses 12 Katas, Enero",
+    "author" : "Axel Hernández Ferrera <axelhzf@gmail.com>",
+    "version" : "1.0.0",
+    "dependencies" : {
+        "jasmine-node" : ">= 1.0.x",
+        "underscore" : ">= 1.4.3"
+    },
+    "engine" : "node >= 0.4.1"
+}
